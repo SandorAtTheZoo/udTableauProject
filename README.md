@@ -30,3 +30,5 @@ One thing I noticed when scrolling briefly through the data is that home runs an
 
 Next I'd like to include handedness in the investigation, so I'd like to create a split bar chart/histogram, where for each bucket of overall performance, the count is split up into left and right handers, so see if handedness seems to play a part in overall performance. It might be worthwhile to consider handedness specifically against batting average and home runs separately as well.
 
+#### Design iteration 1
+As I started to browse through some examples of diagrams and how they might relate to this data, I liked the superhero chart in the Udacity examples, as it is a scatterplot comparing two dimensions, with the power indicated by size, and alignment indicated by color.  This might fit well with the player's height vs. weight in a scatterplot, with color indicating handedness, and size indicating either batting average, or home runs (or, from above, a power score combining those two measures)

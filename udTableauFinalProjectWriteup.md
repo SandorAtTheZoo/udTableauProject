@@ -87,7 +87,7 @@ Bigger Questions:
 - Term : length of loan in months
 - LoanStatus : e.g. (current, completed, pastDue, etc.). Pastdue is accompianied by a delinquency bucket (subcategory?)
 - ClosedData : applicable to cancelled, completed, chargedOff, Defaulted loan status (subcategory?)
-- ListingCategory : loan type (boat, wedding, etc.)
+- ListingCategory : loan type : 0 - Not Available, 1 - Debt Consolidation, 2 - Home Improvement, 3 - Business, 4 - Personal Loan, 5 - Student Use, 6 - Auto, 7- Other, 8 - Baby&Adoption, 9 - Boat, 10 - Cosmetic Procedure, 11 - Engagement Ring, 12 - Green Loans, 13 - Household Expenses, 14 - Large Purchases, 15 - Medical/Dental, 16 - Motorcycle, 17 - RV, 18 - Taxes, 19 - Vacation, 20 - Wedding Loans
 - LoanCurrentDaysDelinquent
 - LoanFirstDefaultedCycleNumber : the cycle the loan was charged off
 - LoanMonthsSinceOrigination : months since loan started
