@@ -1,0 +1,4 @@
+References :
+https://stackoverflow.com/questions/33045931/how-to-normalize-data-to-a-range-in-tableau
+
+https://kb.tableau.com/articles/howto/creating-a-calculation-that-ignores-filters
